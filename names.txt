@@ -4,4 +4,4 @@ Everything meant for something
 
 Learning git branching 
 
-Learning something
+Learning something to  keep main code safe
