@@ -1,26 +1,19 @@
-# 🚀 Java Data Structures & Algorithms (DSA) Journey
+# Data Structures and Algorithms Practice
 
-My personal repository tracking data structures and algorithms practice for software engineering placements.
+A structured repository containing my solutions to DSA problems in C++ and Java.
 
-## 📊 Progress Tracker
+## Repository Structure
 
-- [ ] **Arrays & Strings**
-  - Two Pointers, Sliding Window, Prefix Sum
-- [ ] **Linked Lists**
-  - Fast & Slow Pointers, Reversal, Cycle Detection
-- [ ] **Stacks & Queues**
-  - Monotonic Stack, Queue Implementation
-- [ ] **Binary Trees & BST**
-  - Traversals, LCA, Views, BST Operations
-- [ ] **Graphs**
-  - BFS, DFS, Topological Sort, Shortest Path
-- [ ] **Dynamic Programming**
-  - 1D / 2D DP, Knapsack, Subsequences
+- **Arrays/**: Two Pointers, Sliding Window, Prefix Sum problems
+- **CPPBasics/**: Fundamental C++ language concepts
+- **DynamicProgramming/**: 1D and 2D DP problems
+- **Graphs/**: BFS, DFS, Topological Sort
+- **LinkedList/**: Fast & Slow pointers, reversals
+- **MasterJava/**: Java concepts and solutions
+- **StackQueue/**: Monotonic stack and queue operations
+- **Strings/**: String manipulation algorithms
+- **Trees/**: Binary Trees and BST traversals
 
----
-## 💻 Code Documentation Standard
-Every Java solution file includes:
-- **Problem Link & Number**
-- **Time Complexity ($O$ notation)**
-- **Space Complexity ($O$ notation)**
--
+## Languages Used
+- C++ (`.cpp`)
+- Java (`.java`)
